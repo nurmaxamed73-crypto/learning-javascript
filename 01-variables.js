@@ -12,5 +12,5 @@ console.log("Learning JavaScript:", isLearning);
 
 
 //const
-const age = 24
-console.log("my age is ",age)
+const age = 24;
+console.log("my age is ",age);
