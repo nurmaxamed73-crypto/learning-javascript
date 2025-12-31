@@ -2,14 +2,16 @@
 
 This repository documents my journey learning JavaScript step by step.
 
-## 📚 Topics Covered
-- Variables
+## Topics Covered
+- Variables & Data Types
+- Conditions & Loops
 - Functions
-- Arrow Functions
-- Loops
+- Arrays & Objects
+- Async JavaScript
 
-## 🎯 Goal
-To become a professional web developer.
+## Goal
+To become confident in JavaScript and move into frameworks like React.
+
 
 ## 👤 Author
 Abdinor
