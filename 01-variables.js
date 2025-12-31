@@ -8,3 +8,5 @@ console.log("Name:", name);
 console.log("Age:", age);
 console.log("Learning JavaScript:", isLearning);
 
+
+
